@@ -1,0 +1,31 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --dog
+  --extract pruned_data.prune.in
+  --file Recoded_for_VanRadenGRM
+  --out reduced_genotype
+  --recode
+
+Hostname: MARIO
+Working directory: C:\Users\mario\Desktop\Shihabi_Genomic_Inbreeding_Estimation\2_Practical exercises\Example1\Directory
+Start time: Tue Jul 08 22:04:37 2025
+
+Random number seed: 1752005077
+16077 MB RAM detected; reserving 8038 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (114123 variants, 50 dogs).
+--file: reduced_genotype-temporary.bed + reduced_genotype-temporary.bim +
+reduced_genotype-temporary.fam written.
+114123 variants loaded from .bim file.
+50 dogs (0 males, 0 females, 50 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to reduced_genotype.nosex .
+--extract: 19678 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 50 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.997683.
+19678 variants and 50 dogs pass filters and QC.
+Note: No phenotypes present.
+--recode ped to reduced_genotype.ped + reduced_genotype.map ... done.
+
+End time: Tue Jul 08 22:04:38 2025

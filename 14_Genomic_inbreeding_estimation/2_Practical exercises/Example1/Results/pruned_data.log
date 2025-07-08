@@ -1,0 +1,69 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --dog
+  --file Recoded_for_VanRadenGRM
+  --indep-pairwise 50 5 0.3
+  --out pruned_data
+
+Hostname: MARIO
+Working directory: C:\Users\mario\Desktop\Shihabi_Genomic_Inbreeding_Estimation\2_Practical exercises\Example1\Directory
+Start time: Tue Jul 08 22:04:36 2025
+
+Random number seed: 1752005076
+16077 MB RAM detected; reserving 8038 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (114123 variants, 50 dogs).
+--file: pruned_data-temporary.bed + pruned_data-temporary.bim +
+pruned_data-temporary.fam written.
+114123 variants loaded from .bim file.
+50 dogs (0 males, 0 females, 50 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to pruned_data.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 50 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.997495.
+114123 variants and 50 dogs pass filters and QC.
+Note: No phenotypes present.
+Pruned 4768 variants from chromosome 1, leaving 913.
+Pruned 3292 variants from chromosome 2, leaving 581.
+Pruned 3949 variants from chromosome 3, leaving 792.
+Pruned 3521 variants from chromosome 4, leaving 840.
+Pruned 3589 variants from chromosome 5, leaving 672.
+Pruned 2845 variants from chromosome 6, leaving 532.
+Pruned 3317 variants from chromosome 7, leaving 787.
+Pruned 2739 variants from chromosome 8, leaving 714.
+Pruned 2015 variants from chromosome 9, leaving 489.
+Pruned 2552 variants from chromosome 10, leaving 481.
+Pruned 2530 variants from chromosome 11, leaving 499.
+Pruned 3231 variants from chromosome 12, leaving 536.
+Pruned 3039 variants from chromosome 13, leaving 583.
+Pruned 2645 variants from chromosome 14, leaving 504.
+Pruned 2735 variants from chromosome 15, leaving 543.
+Pruned 2662 variants from chromosome 16, leaving 420.
+Pruned 2930 variants from chromosome 17, leaving 525.
+Pruned 2145 variants from chromosome 18, leaving 555.
+Pruned 2361 variants from chromosome 19, leaving 553.
+Pruned 2456 variants from chromosome 20, leaving 434.
+Pruned 2295 variants from chromosome 21, leaving 473.
+Pruned 2978 variants from chromosome 22, leaving 515.
+Pruned 2451 variants from chromosome 23, leaving 605.
+Pruned 2178 variants from chromosome 24, leaving 445.
+Pruned 2368 variants from chromosome 25, leaving 469.
+Pruned 1598 variants from chromosome 26, leaving 363.
+Pruned 2140 variants from chromosome 27, leaving 407.
+Pruned 1752 variants from chromosome 28, leaving 340.
+Pruned 1824 variants from chromosome 29, leaving 346.
+Pruned 1711 variants from chromosome 30, leaving 361.
+Pruned 1639 variants from chromosome 31, leaving 431.
+Pruned 1811 variants from chromosome 32, leaving 375.
+Pruned 1398 variants from chromosome 33, leaving 371.
+Pruned 2017 variants from chromosome 34, leaving 397.
+Pruned 1101 variants from chromosome 35, leaving 300.
+Pruned 1174 variants from chromosome 36, leaving 372.
+Pruned 1272 variants from chromosome 37, leaving 381.
+Pruned 914 variants from chromosome 38, leaving 281.
+Pruned 2503 variants from chromosome 39, leaving 493.
+Pruning complete.  94445 of 114123 variants removed.
+Marker lists written to pruned_data.prune.in and pruned_data.prune.out .
+
+End time: Tue Jul 08 22:04:37 2025

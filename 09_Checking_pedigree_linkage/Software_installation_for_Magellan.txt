@@ -1,0 +1,21 @@
+7-Zip is a file archiver with a high compression ratio
+https://www.7-zip.org/
+
+
+TextPad - text editor
+https://www.textpad.com/download#textpad9
+
+
+Python 3.10.9 or some of the 3.10.x version — newer versions (3.11.x and above) are not compatible with the TensorFlow version listed below.
+https://www.python.org/downloads/windows/
+- when installing Python, mark "Add python.exe to Path"
+
+
+Open command prompt in Windows or bash terminal in Linux/Mac/WSL:
+pip install pandas
+pip install dask
+pip install dask[dataframe]
+pip install PyQt6
+pip install xgboost
+pip install tensorflow
+pip install matplotlib

@@ -1,0 +1,33 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --cow
+  --file CROholstein_FinalReport_afterQC
+  --nonfounders
+  --out Recoded_for_VanRadenGRM
+  --output-missing-genotype 0
+  --recode 12
+
+Hostname: MARIO
+Working directory: C:\Users\mario\Desktop\Shihabi_Genomic_Inbreeding_Estimation\2_Practical exercises\Example2\Directory
+Start time: Tue Jul 08 22:08:06 2025
+
+Random number seed: 1752005286
+16077 MB RAM detected; reserving 8038 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (37047 variants, 97 cattle).
+--file: Recoded_for_VanRadenGRM-temporary.bed +
+Recoded_for_VanRadenGRM-temporary.bim + Recoded_for_VanRadenGRM-temporary.fam
+written.
+37047 variants loaded from .bim file.
+97 cattle (0 males, 0 females, 97 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to Recoded_for_VanRadenGRM.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 97 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.994788.
+37047 variants and 97 cattle pass filters and QC.
+Note: No phenotypes present.
+--recode ped to Recoded_for_VanRadenGRM.ped + Recoded_for_VanRadenGRM.map ...
+done.
+
+End time: Tue Jul 08 22:08:07 2025
